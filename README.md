@@ -22,3 +22,7 @@ See the video for demo.
 Also the results can be verified on http://127.0.0.1:8000/inventory 
 
 
+
+
+https://github.com/user-attachments/assets/b9b09e29-33a6-426a-a4d2-a7e44f3fe3f4
+
