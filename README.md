@@ -3,7 +3,7 @@ Gen Ai powered Inventory Management
 
 Prerequisite: In MCP_server.py file add your google Gemini API key.
 
-1) Run the main.py file using command python main.py : It is the inventory management file. 
+1) Run the inventory-service.py file using command python inventory-service.py  
 2) Run the MCP_server.py file using command  python mcp_server.py.
 3) Then run the index.html file
 
@@ -12,9 +12,10 @@ For Postman:
 2)	Choose raw and Json format 
 3)	You can give any query of your choice. 
 
+<img width="635" height="577" alt="image" src="https://github.com/user-attachments/assets/fd63ccaa-6c91-4709-aa42-b5504e6871f2" />
 
 For web based interaction:
-1) Directly enter any query, desired results would be displayed directly.
+1) Run the index.html file, enter any query, desired results would be displayed directly.
 
 Working:  
 Gemini api converts the Natural language to Json format and then the inventory has been updated .
